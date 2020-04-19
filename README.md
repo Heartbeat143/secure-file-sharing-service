@@ -9,8 +9,8 @@ QBox is a secure file-sharing service. It is a customized version of the popular
 1. Debug performance issues and identify regressions:   
     i. Created a performance benchmark using a base version of QBox.    
     ii. Identified regressions in newer QBox versions (memory usage, cpu usage, file transfer speed, file permission issues).
-
-2, Troubleshoot network issues:   
+ 
+2. Troubleshoot network issues:   
     i. Collected and analyzed pcap files using Wireshark.    
     ii. Identified the following network issues in different versions of QBox: TCP retransmissions, connection refusals, dropped connections, sub-optimal TCP window sizes and retransmission delays.   
     iii. Identified several network issues in different versions of QBox including TCP retransmissions, connection refusals and retransmission delays.   
